@@ -23,6 +23,7 @@
     "@shopify/cli-hydrogen": "^4.1.1",
     "@shopify/hydrogen": "^2023.4.0",
     "@shopify/remix-oxygen": "^1.0.5",
+    "@remix-run/node": "^1.7.3",
     "clsx": "^1.2.1",
     "cross-env": "^7.0.3",
     "graphql": "^16.6.0",
